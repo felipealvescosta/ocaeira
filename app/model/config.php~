@@ -1,0 +1,7 @@
+<?php
+    //Configuração básica de conexão.
+    $host = "localhost";
+    $usuario = "felalv93_ei";
+    $senha = "res3456res";
+    $banco = "felalv93_ei";
+?>
